@@ -1,0 +1,6 @@
+![Cover](../_posts/cover.jpeg)
+
+# Spring Animation in Swift
+We live in times where we are hooked to our mobile devices more than ever, as if it's an extension of our mind & body. Our interactions with today's mobile screens feel so natural, sometimes magical as if it communicates with us by sensing & responding to the most delicate gestures & the lightest of touches.
+
+Have you ever wondered what goes behind the scenes to give you this fluid experience. We will try to touch & hopefully understand the science behind a very tiny bit of this wholesome magical experience.
