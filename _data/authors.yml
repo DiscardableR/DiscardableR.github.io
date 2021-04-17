@@ -6,3 +6,12 @@ mohitnnd:
   url: #discardabler.github.io/mohitnnd
   bio: Software Developer
   assets: assets/images/mohitnnd.png
+
+shahrukh:
+  username: shahrukhalam
+  name: Shahrukh Alam
+  location: Bangalore, India
+  url_full: #http://127.0.0.1:4000/author/shahrukhalam/
+  url: #discardabler.github.io/shahrukhalam
+  bio: Software Developer
+  assets: assets/images/Authors/Shahrukh.jpg
