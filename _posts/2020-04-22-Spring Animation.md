@@ -3,7 +3,7 @@ layout: post
 cover: "assets/images/SpringAnimation/Cover.jpeg"
 navigation: True
 title: Spring Animation in iOS - Part 1
-date: 2020-03-25 10:18:00
+date: 2020-04-24 02:14:00
 tags: Tech Shuri&Scott
 subclass: "post tag-tech tag-shuri&scott"
 logo: "assets/images/Home.png"
